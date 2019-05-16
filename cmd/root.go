@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/sap-commerce-tools/ccv2ctl/portal"
+	"github.com/yehorov-sap/ccv2ctl/portal"
 	"io/ioutil"
 	"os"
 	"path/filepath"
